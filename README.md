@@ -13,7 +13,7 @@ However, I will NEVER choose a license from GNU, such as _GPL_, _AGPL_, or _LGPL
 unless that project is really nothing but trash.
 
 ## Patent Grant
-The model of License + Patent Grants will be used to make sure that a project is strictly copyrighted by me or the company behind me. Usage of the code or binary is always granted unless patent infringement occurs.
+The model of License + Patent Grants will be used to make sure that a project is strictly copyrighted by me or the company behind me, although the code is open. Usage of the code or binary is always granted unless patent infringement occurs.
 
 See [PATENTS](PATENTS) for a template patent grant.
 
