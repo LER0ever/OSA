@@ -27,7 +27,7 @@ See [CLA.md](CLA.md) for more details.
 Please see [Contributing.md](Contributing.md).
 
 #### To this project
-The documents under this repo is not at all examined by a single lawyer. If you find any loopholes, please write privately to `i#rongyi.io` (:s/#/@/g), thanks.
+The documents under this repo are not at all examined by a single lawyer. If you find any loopholes, please write privately to `i#rongyi.io` (:s/#/@/g), thanks.
 
 ## License
 The markdown formatted License files in this repository (namely `Apache-v2.0.md`, `BSD-2.md`, `BSD-3.md`, `MIT.md`) are from [IQAndreas/markdown-licenses](https://github.com/IQAndreas/markdown-licenses) and are shared here under the terms of their original licenses.
