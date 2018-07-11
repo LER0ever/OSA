@@ -7,7 +7,7 @@ This repo contains most of the legal stuff I need for my open source projects.
 
 ## Choice of License
 For most of my current and future open source projects, Apache License 2.0 is most preferred.
-I will use Apache 2.0 and MIT dual license (like Rust) or BSD + Patent style license for my future Go/Lumos/Rust projects.
+I will use Apache 2.0 and MIT dual license (like Rust) or BSD + Patent style license (like Go) for my future Go/Lumos/Rust projects.
 I will probably also choose MIT License or BSD family licenses for some special reasons.
 However, I will NEVER choose a license from GNU, such as _GPL_, _AGPL_, or _LGPL_,
 unless that project is really nothing but trash.
@@ -26,6 +26,7 @@ See [CLA.md](CLA.md) for more details.
 ## Contribution
 Please see [Contributing.md](Contributing.md).
 
+#### To this project
 The documents under this repo is not at all examined by a single lawyer. If you find any loopholes, please write privately to `i#rongyi.io` (:s/#/@/g), thanks.
 
 ## License
@@ -37,4 +38,4 @@ The Patent grant is taken from [golang/go](https://github.com/golang/go) and all
 
 The website responsible for handling CLA signing is based on [CLA-Assistant](https://github.com/cla-assistant/cla-assistant).
 
-Unless otherwise noticed, files under this project are open source under the terms of Apache License Version 2.0.
+Unless otherwise noted, files under this project are open source under the terms of Apache License Version 2.0.
