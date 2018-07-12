@@ -1,5 +1,4 @@
 # OSA
-
 Open Source Agreements, including LICENSE, Contributors License Agreements (CLA), Patent Grant notice.
 
 ## About
@@ -21,7 +20,6 @@ See [PATENTS](PATENTS) for a template patent grant.
 CLA is used to make sure proper copyrights are transferred from the contributors to me or the company behind me, so that changes could be made freely in the future. 
 
 See [CLA.md](CLA.md) for more details.
-
 
 ## Contribution
 Please see [Contributing.md](Contributing.md).
